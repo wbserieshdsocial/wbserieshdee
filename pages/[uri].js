@@ -14,7 +14,7 @@ useEffect(()=>{
         <meta property="og:title" content={post?.title} />
         <meta property="og:description" content={post?.title} />
         <meta property="og:image" content={post?.featuredImage?.node?.sourceUrl} />
-        <meta property="og:url" content={`https://wbserieshd.vercel.app/${post?.slug}`} />
+        <meta property="og:url" content={`https://wbserieshdaa.vercel.app/${post?.slug}`} />
         <meta property="og:type" content="articals" />
         <link rel="icon" href="favicon.ico"></link>
       </Head>
